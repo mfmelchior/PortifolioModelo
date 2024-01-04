@@ -172,3 +172,49 @@ h1.black{
     text-align: center;
     color: #575455;
 }
+
+#contactForm input{
+    background: #F5F6FB;
+    border-radius: 50px;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #575455;
+    border: 0;
+    width: 70%;
+    padding: 15px 25px;
+}
+
+#contactForm button{
+    background: #1f7cff;
+    border-radius: 50px;
+    padding: 10px 60px;
+    font-family: 'poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: white;
+    border:none;
+}
+
+#portifolioTitle{
+    margin-top: 150px;
+}
+
+#portifolioTitle h2{
+    text-align: left;
+}
+
+#portifolioTitle h1{
+    text-align: left;
+}
+
+.portifolioImg img{
+    width: 100%;
+    padding: 20px;
+    border-radius: 30px;
+}
